@@ -1,0 +1,29 @@
+_repo: The-Confession-of-a-Child-of-the-Century-Volume-2_3940
+creator:
+  author:
+    agent_name: Musset, Alfred de
+    aliases:
+    - Musset, Louis Charles Alfred de
+    - De Musset, Alfred
+    - DeMusset, Alfred
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+description: Translation of La confession d'un enfant du siècle.
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: The Confession of a Child of the Century — Volume 2
+url: http://www.gutenberg.org/ebooks/3940
